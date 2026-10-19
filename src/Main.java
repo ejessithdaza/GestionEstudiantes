@@ -13,7 +13,7 @@ public class Main {
         EstudianteService estudianteService = new EstudianteService();
 
         do {
-            System.out.println("\n========== Menu Estudiantes ==========");
+            System.out.println("========== Menu Estudiantes ==========");
             System.out.println("1. Registrar Estudiantes");
             System.out.println("2. Listar Estudiantes");
             System.out.println("3. Modificar registro del Estudiante");
